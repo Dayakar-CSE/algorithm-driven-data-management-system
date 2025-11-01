@@ -37,7 +37,7 @@ This project is one of many labs and assignments I completed for this certificat
 ### How to Run This Project
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/algorithm-driven-data-management-system.git
+    git clone https://github.com/Dayakar-CSE/algorithm-driven-data-management-system.git
     ```
 2.  Open the project in any Java IDE (e.g., IntelliJ, VS Code).
 3.  Compile and run the `Main.java` file to start the application.
